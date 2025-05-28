@@ -19,7 +19,7 @@ I'm transitioning into a civilian tech career, blending my expertise in operatio
 - 📦 Cloud Migrations & Cost Optimization
 - 📊 Agile Project Management & DevSecOps
 - 🤖 Generative AI / Prompt Engineering
-- 🛰️ Military-grade intelligence workflows adapted for enterprise security
+- 🛰️ Intelligence workflows adapted for enterprise security
 
 ---
 
@@ -34,7 +34,7 @@ I'm transitioning into a civilian tech career, blending my expertise in operatio
 ## 🌍 Next Chapter: Panama 🇵🇦
 🎓 Soon pursuing a Master’s in International Affairs at FSU Panama  
 🌐 Remote-ready for hybrid or freelance roles in cloud, AI, and tech strategy  
-🔒 Holds an active **Top Secret Security Clearance**
+
 
 ---
 
