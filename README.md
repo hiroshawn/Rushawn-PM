@@ -39,7 +39,7 @@ I'm transitioning into a civilian tech career, blending my expertise in operatio
 ---
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/Rushawn-Powell-5832b0b2)
 - [GitHub](https://github.com/rushawn-PM)
 
 ---
